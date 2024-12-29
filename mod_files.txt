@@ -1,1 +1,8 @@
-
+// !! REMOVE EVERYTHING THAT HAS // AT THE START !!
+// Format your 'add' commands such that they resemble this
+// add data000/pl/pl1010.dat
+// add data001/st6/r600.dat
+// add data000/CameraFactorStandard.bxm
+//
+// Tip I could give is to watch the guide on YouTube about making update servers for Hedge Mod Manager. That video includes a handy trick to make
+// structuring your mod_files.txt simpler.
