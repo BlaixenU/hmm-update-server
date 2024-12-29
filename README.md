@@ -1,6 +1,6 @@
 ## Usage of this mod template
 
-paste your `mod.ini` and accompanying mod folders directly into the topmost folder of this repository such that `mod.ini` exists in the same location as `changelog.md`, etc.
+paste the contents of your mod (`mod.ini` and accompanying mod folders) directly into the topmost folder of this repository such that `mod.ini` exists in the same location as `changelog.md`, etc.
 
 when importing your `mod.ini` and mod folders, copy the paths of everything from the file import menu (Drag files here) after your files have been uploaded but not added to the repo, then
 paste this into `mod_files.txt` and remove the starting backward slash and replace it with `add `.
